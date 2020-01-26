@@ -1,0 +1,83 @@
+.container{
+    margin: 0 auto;
+    width: 30%;
+    height: 100%;
+    background: lightgray;
+    border: 1px solid lightgray;
+    border-radius: .25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#addTask{
+    color: slategrey;
+}
+
+#addTask:hover{
+    cursor: pointer;
+}
+
+.newTask{
+    height: 25px;
+    margin: 1rem 0;
+    outline: none;
+    border: 1px solid slategrey;
+    border-radius: .25rem;
+}
+
+.submit{
+    height: 25px;
+    background: green;
+    border: 1px solid green;
+    border-radius: .25rem;
+    margin-left: 5px;
+    color: white;
+}
+
+.tasks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    margin: 10px 0;
+    border-radius: .25rem;
+    padding: 5px;
+}
+
+.taskName{
+    text-transform: capitalize;
+    margin: 10px 80px 10px 5px;
+}
+
+.delete{
+    background: indianred;
+    color: white;
+    border: 1px solid indianred;
+    border-radius: .25rem;
+    padding: 5px;
+}
+
+.edit{
+    background: lightseagreen;
+    color: white;
+    border: 1px solid lightseagreen;
+    border-radius: .25rem;
+    padding: 5px;
+}
+
+.done{
+    background: cornflowerblue;
+    color: white;
+    border: 1px solid cornflowerblue;
+    border-radius: .25rem;
+    padding: 5px;
+}
+
+.doneTaskName{
+    color: slategrey;
+    text-transform: capitalize;
+    margin: 10px 80px 10px 5px;
+    text-decoration-line: line-through;
+}

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9ee5707-d438-47a6-978e-e95f4920281b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WsltQBeSHeBQnGbZtk8pRGbgI1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sql" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9ee5707-d438-47a6-978e-e95f4920281b" name="Default Changelist" comment="" />
+      <created>1579946396178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579946396178</updated>
+      <workItem from="1579946397793" duration="26854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="125" width="800" height="684" key="#SQL_Dialects" timestamp="1579948341821">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="395" y="125" width="800" height="684" key="#SQL_Dialects/0.27.1600.873@0.27.1600.873" timestamp="1579948341821" />
+    <state x="395" y="125" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579948454132">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="395" y="125" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.873@0.27.1600.873" timestamp="1579948454132" />
+    <state x="411" y="232" width="768" height="469" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1579946608142">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="411" y="232" width="768" height="469" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.27.1600.873@0.27.1600.873" timestamp="1579946608142" />
+    <state x="595" y="389" width="399" height="156" key="NewPhpFileDialog" timestamp="1579946529760">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="595" y="389" width="399" height="156" key="NewPhpFileDialog/0.27.1600.873@0.27.1600.873" timestamp="1579946529760" />
+    <state x="464" y="207" key="run.anything.popup" timestamp="1579981436745">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="464" y="207" key="run.anything.popup/0.27.1600.873@0.27.1600.873" timestamp="1579981436745" />
+    <state x="463" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1579979350096">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="463" y="214" width="672" height="678" key="search.everywhere.popup/0.27.1600.873@0.27.1600.873" timestamp="1579979350096" />
+  </component>
+</project>
